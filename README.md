@@ -170,11 +170,7 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarthakRay26&theme=tokyonight&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarthakRay26&theme=tokyonight&column=6&margin-w=10&margin-h=10"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00BFA5&height=200&section=header&text=Sarthak%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 
