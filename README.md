@@ -174,8 +174,9 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
 </p>
 
 <p align="center">
-  <img src="https://github.com/SarthakRay26/SarthakRay26/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SarthakRay26&theme=tokyonight&column=6&margin-w=10&margin-h=10"/>
 </p>
+
 
 ---
 
