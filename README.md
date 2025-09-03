@@ -1,8 +1,9 @@
 <!-- GITHUB PROFILE README: Sarthak Ray -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Hey+👋%2C+I'm+Sarthak+Ray;Full+Stack+Developer+%7C+Cloud+%7C+AI%2FML;Hackathon+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=750&lines=Hey+👋,+I'm+Sarthak+Ray;Full+Stack+Developer+%7C+Cloud+%7C+AI/ML;Hackathon+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="mailto:raysarthak26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -73,7 +74,7 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
     <sub>Multilingual chatbot w/ Grok AI + payments, 85% query resolution</sub></td>
   </tr>
   <tr>
-    <td><b>Sarthak Law Academy</b><br/>
+    <td><b><a href="https://www.sarthaklawacademy.com/">Sarthak Law Academy</a></b><br/>
     <sub>EdTech platform for 500+ learners, MERN + Vercel + Heroku, 100% uptime</sub></td>
   </tr>
   <tr>
@@ -81,6 +82,7 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
     <sub>Hackathon finalist – AI-driven crime analysis, Top 10 in Tredence Infinity AI Hackathon</sub></td>
   </tr>
 </table>
+
 
 ---
 
