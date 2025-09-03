@@ -170,8 +170,9 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00BFA5&height=200&section=header&text=Sarthak%20Ray&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakRay26&theme=tokyo-night" alt="activity graph"/>
 </p>
+
 
 
 ---
