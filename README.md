@@ -77,10 +77,7 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
     <td><b><a href="https://www.sarthaklawacademy.com/">Sarthak Law Academy</a></b><br/>
     <sub>EdTech platform for 500+ learners, MERN + Vercel + Heroku, 100% uptime</sub></td>
   </tr>
-  <tr>
-    <td><b>Crime Investigation AI</b><br/>
-    <sub>Hackathon finalist – AI-driven crime analysis, Top 10 in Tredence Infinity AI Hackathon</sub></td>
-  </tr>
+  
 </table>
 
 
@@ -102,9 +99,9 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
 <h2 align="center">📜 Certifications</h2>
 
 <ul>
-  <li>🏅 <b>AWS Certified Cloud Practitioner</b> (Scored 963/1000) – Jul 2024</li>
-  <li>🏅 <b>MongoDB Node.js Developer</b> – Jun 2024</li>
-  <li>🏅 <b>JP Morgan Chase & Co.</b> – Software Engineering Virtual Experience, Aug 2025</li>
+  <li>🏅 <b><a href="https://www.credly.com/go/vueaaK7N6sve4r07AVqQQw" target="_blank">AWS Certified Cloud Practitioner</a></b> (Scored 963/1000) – Jul 2024</li>
+  <li>🏅 <b><a href="https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path-for-smartbridge" target="_blank">MongoDB Node.js Developer Certification</a></b> – Jun 2024</li>
+  <li>🏅 <b><a href="https://drive.google.com/file/d/1KlvOyfkaHEOcLSST4qVuUvU_FwLfs5XB/view" target="_blank">JP Morgan Chase & Co. Software Engineering Virtual Experience</a></b> – Aug 2025</li>
 </ul>
 
 ---
