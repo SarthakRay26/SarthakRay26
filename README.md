@@ -60,24 +60,69 @@ Dev Tools: Git, GitHub, Postman, Vite, VS Code, Docker (basic)
 
 <h2 align="center">🌟 Featured Projects</h2>
 
+<p align="center">
+  <i>Some of my best work showcasing MERN, AI/ML, and Cloud 🚀</i>
+</p>
+
 <table>
   <tr>
-    <td><b><a href="https://pawrecognition.vercel.app/">Paw Recognition</a></b><br/>
-    <sub>AI-powered pet identification system (Next.js + TensorFlow + LLaMA 3.1 API), 92% accuracy</sub></td>
+    <td width="50%">
+      <h3><a href="https://pawrecognition.vercel.app/">🐾 Paw Recognition</a></h3>
+      <p>AI-powered pet identification system using <b>Next.js + TensorFlow + LLaMA 3.1 API</b></p>
+      <p>✨ <i>92% accuracy in breed detection</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow"/>
+        <img src="https://img.shields.io/badge/LLaMA-3.1-blueviolet"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/SarthakRay26/SBFoods-SmartInternz">🍴 SnackSpirit</a></h3>
+      <p>Restaurant management platform built with the <b>MERN stack</b></p>
+      <p>⚡ Handles <b>200+ concurrent users</b> with 99.5% uptime</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      </p>
+    </td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/SarthakRay26/SBFoods-SmartInternz">SnackSpirit</a></b><br/>
-    <sub>MERN-based restaurant management app, 200+ concurrent users, 99.5% uptime</sub></td>
+    <td width="50%">
+      <h3><a href="https://museum-booking.vercel.app">🏛️ Museum Ticketing Chatbot</a></h3>
+      <p>AI chatbot with <b>multilingual support</b>, integrated with payments</p>
+      <p>📊 <i>85% query resolution accuracy</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN-1c1c1c?style=flat&logo=mongodb&logoColor=4DB33D"/>
+        <img src="https://img.shields.io/badge/Grok%20AI-purple?style=flat"/>
+        <img src="https://img.shields.io/badge/Payments-FF5F00?style=flat&logo=stripe&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://www.sarthaklawacademy.com/">⚖️ Sarthak Law Academy</a></h3>
+      <p>EdTech platform serving <b>500+ learners</b> with secure backend and responsive frontend</p>
+      <p>✅ <i>100% uptime, scalable design</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      </p>
+    </td>
   </tr>
   <tr>
-    <td><b><a href="https://museum-booking.vercel.app">Museum Ticketing Chatbot</a></b><br/>
-    <sub>Multilingual chatbot w/ Grok AI + payments, 85% query resolution</sub></td>
+    <td colspan="2" align="center">
+      <h3>🕵️ Crime Investigation AI</h3>
+      <p>AI-powered crime investigation platform built for <b>Tredence Infinity AI Hackathon</b></p>
+      <p>🏆 <b>Top 10 finalist</b> among 500+ national teams</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI/ML-ffca28?style=flat&logo=tensorflow&logoColor=black"/>
+      </p>
+    </td>
   </tr>
-  <tr>
-    <td><b><a href="https://www.sarthaklawacademy.com/">Sarthak Law Academy</a></b><br/>
-    <sub>EdTech platform for 500+ learners, MERN + Vercel + Heroku, 100% uptime</sub></td>
-  </tr>
-  
 </table>
 
 
